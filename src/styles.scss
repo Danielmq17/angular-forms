@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.title-form {
+  text-align: center;
+}
+
+input {
+  margin-top: 10px;
+  margin-left: 5px;
+}
